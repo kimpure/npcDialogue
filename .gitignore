@@ -1,6 +1,1 @@
-# Project place file
-/ver2.rbxlx
-
-# Roblox Studio lock files
-/*.rbxlx.lock
-/*.rbxl.lock
+.vscode
